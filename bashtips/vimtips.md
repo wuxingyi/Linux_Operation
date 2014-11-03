@@ -29,3 +29,15 @@
 * change to another screen
 
 		ctl+w + (h,j,k,l)	
+
+* char block select
+
+		v
+
+* line block select
+
+		V
+
+* block copy
+		after block selected, then y
+	
