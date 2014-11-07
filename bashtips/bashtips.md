@@ -11,3 +11,5 @@
 
 * ip route add default via 192.168.1.2 dev eth0(add gateway)
 
+* export TMOUT=100000000(prevent ssh disconnection with long time no input)
+
